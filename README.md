@@ -50,7 +50,7 @@ sudo a2ensite jenkins
 sudo service apache2 reload
 ```
 
-## Installing Java / Maven / Git
+## Installing Java 1.8 / Maven / Git
 
 ```bash
 sudo add-apt-repository ppa:webupd8team/java
